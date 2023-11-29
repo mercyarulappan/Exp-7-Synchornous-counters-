@@ -115,11 +115,8 @@ RegisterNumber: 23012506
 
 ![image](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/d7a69cd2-7f53-4854-8bae-f51527aff84d)
 
-### RESULT:
+### RESULTS:
 
 Thus synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
 
 
-
-
-### RESULTS 
