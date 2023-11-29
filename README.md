@@ -109,11 +109,12 @@ RegisterNumber: 23012506
 
 ## Up Counter:
 
-![image](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/deb02796-83bd-4228-b465-11f8feb339c7)
+![image](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/b62bc10d-882a-44ef-a61b-22b9cb4a8823)
 
 ## Down Counter:
 
-![image](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/d7a69cd2-7f53-4854-8bae-f51527aff84d)
+![image](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/3a903e31-f6f4-4b8d-9444-c9f62dcd423e)
+
 
 ### RESULTS:
 
