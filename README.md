@@ -2,9 +2,9 @@
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
-### THEORY 
+### THEORY :
 
-## UP COUNTER 
+## UP COUNTER: 
 The counter is a digital sequential circuit and here it is a 4 bit counter, which simply means it can count from 0 to 15 and vice versa based upon the direction of counting (up/down). 
 
 The counter (“count“) value will be evaluated at every positive (rising) edge of the clock (“clk“) cycle.
@@ -36,7 +36,7 @@ Four-bit “Up” Counter
 
 
 
-## DOWN COUNTER 
+## DOWN COUNTER :
 
 As well as counting “up” from zero and increasing or incrementing to some preset value, it is sometimes necessary to count “down” from a predetermined value to zero allowing us to produce an output that activates when the zero count or some other pre-set value is reached.
 
@@ -45,42 +45,79 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 4-bit Count Down Counter
-### Procedure
-/* write all the steps invloved */
 
+
+### Procedure:
+
+
+4-bit Count Down Counter Procedure write all the steps invloved
+
+1. Create a new project in Quartus2 software .
+2. Name the project as uc for upcounter and dc for down counter.
+3. Create a new verilog hdl file in the project file.
+4. Name the module declare as dc and uc for down counter and upcounter.
+5. Within the module declare input and output variables.
+6. Create a loop using if-else with condition parameter as reset.
+7. End the loop.
+8. End the module.
 
 
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+
+Developed by: MERCY A
+
+RegisterNumber: 23012506 
 */
 
+## Up Counter:
+
+![Up code](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/e9dd2daa-7c3c-4e82-a633-6a3a3c2a4d79)
+
+## Down Counter:
+
+![down code](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/459491a1-98dd-4966-acac-38fabf369f44)
 
 
 
 
+###  LOGIC DIAGRAM :
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+## Up Counter:
 
+![Up diagram](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/211444ee-5902-4172-8f35-7866d7ad6d84)
 
+## Down Counter:
 
-
-
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
+![down diagram](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/f17cb6eb-ede3-41e0-94d5-ac60ba18fecd)
 
 
+### TIMING DIGRAMS FOR COUNTER :
+
+## Up Counter:
+
+![Up wave](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/e92a3bdd-a666-4f07-966e-76ece305b996)
+
+## Down Counter:
+
+![down wave](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/5e0ba560-22e7-4ff9-a8fe-1752bfb7ae53)
 
 
+### TRUTH TABLE :
 
-### TRUTH TABLE 
+## Up Counter:
 
+![image](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/deb02796-83bd-4228-b465-11f8feb339c7)
 
+## Down Counter:
+
+![image](https://github.com/mercyarulappan/Exp-7-Synchornous-counters-/assets/149233730/d7a69cd2-7f53-4854-8bae-f51527aff84d)
+
+### RESULT:
+
+Thus synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
 
 
 
